@@ -33,3 +33,5 @@ TestResults.xml
 /TerminalX.ConsoleApp/bin/Debug/net8.0
 /TerminalX.ConsoleApp/obj/Debug/net8.0
 /TerminalX.ConsoleApp/obj
+/TerminalX.Tests/bin/Debug/net8.0
+/TerminalX.Tests/obj
