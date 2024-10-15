@@ -20,3 +20,16 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs/TerminalX/FileContentIndex/51f03d4a-7deb-4d99-8f55-e8a1174d2489.vsidx
+*.vsidx
+/.vs/TerminalX/v17/TestStore/0/000.testlog
+/.vs/TerminalX/v17/TestStore/0/testlog.manifest
+/.vs/TerminalX/v17/.wsuo
+/.vs/TerminalX/v17/.suo
+/.vs/TerminalX/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/TerminalX.ConsoleApp/bin/Debug/net8.0
+/TerminalX.ConsoleApp/obj/Debug/net8.0
+/TerminalX.ConsoleApp/obj
