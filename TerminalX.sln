@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalX.ConsoleApp", "TerminalX.ConsoleApp\TerminalX.ConsoleApp.csproj", "{99769376-926D-4E26-8884-4BE7C156430D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalX.Tests", "TerminalX.Tests\TerminalX.Tests.csproj", "{7083081A-B3A2-48CE-9306-5BE44EFB9CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{99769376-926D-4E26-8884-4BE7C156430D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99769376-926D-4E26-8884-4BE7C156430D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99769376-926D-4E26-8884-4BE7C156430D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7083081A-B3A2-48CE-9306-5BE44EFB9CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7083081A-B3A2-48CE-9306-5BE44EFB9CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7083081A-B3A2-48CE-9306-5BE44EFB9CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7083081A-B3A2-48CE-9306-5BE44EFB9CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
